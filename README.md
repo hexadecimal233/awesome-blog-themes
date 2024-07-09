@@ -46,7 +46,11 @@
 
 ![Image](./assets/11.webp)
 
-## [hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
+## [hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer)
 
-![Image](./assets/12.webp)
+![Image](./assets/13.webp)
+
+## [hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe)
+
+![Image](./assets/14.webp)
 
