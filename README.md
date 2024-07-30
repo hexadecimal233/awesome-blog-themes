@@ -76,6 +76,14 @@
 
 ![Image](./assets/x/5.webp)
 
+### (Halo) [Sakura](https://github.com/LIlGG/halo-theme-sakura)
+
+![Image](./assets/x/6.webp)
+
+### (Halo) [Dream](https://github.com/nineya/halo-theme-dream)
+
+![Image](./assets/x/7.webp)
+
 ## Q: 有 Wordpress 主题吗？
 
 A: 没有！！不喜欢用 Php！
