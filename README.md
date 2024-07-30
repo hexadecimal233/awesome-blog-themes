@@ -1,6 +1,6 @@
-# 收集几款好看的 hexo 主题~ Some elegant hexo themes
+# 下面是我搜集一些好看的博客主题！
 
-## 主题推荐 Recommendations
+## 几款好看的 hexo 主题~
 
 ### [anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu)
 
