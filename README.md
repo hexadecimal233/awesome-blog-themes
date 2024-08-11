@@ -1,6 +1,6 @@
-# 下面是我搜集一些好看的博客主题！
+# awesome-blog-themes
 
-## 几款好看的 hexo 主题~
+## Hexo themes
 
 ### [anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu)
 
@@ -54,7 +54,7 @@
 
 ![Image](./assets/14.webp)
 
-## 虽然下面的主题不是 hexo 的，但也值得一试的 ww！(有些可能要自己部署后端)
+## The following themes are not for hexo, but they are worth a try ww! (Some may require you to deploy it yourself)
 
 ### (Hugo) [stack](https://github.com/CaiJimmy/hugo-theme-stack)
 
@@ -84,6 +84,14 @@
 
 ![Image](./assets/x/7.webp)
 
-## Q: 有 Wordpress 主题吗？
+### [Shiro](https://github.com/innei/Shiro)
 
-A: 没有！！不喜欢用 Php！
+![Image](./assets/x/8.webp)
+
+### (Cloudflare) [Rin](https://github.com/openRin/Rin)
+
+![Image](./assets/x/9.webp)
+
+## Q: Is there any theme available for wordpress？
+
+A: No. WordPress has far more themes than Hexo, and many of them are proprietary.
