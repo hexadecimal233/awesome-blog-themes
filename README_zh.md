@@ -2,6 +2,8 @@
 
 ## 几款好看的 hexo 主题~
 
+> Hexo 是一个快速、简洁且高效的博客框架。推荐新手使用 👍
+
 ### [anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu)
 
 ![Image](./assets/1.webp)
@@ -21,10 +23,6 @@
 ### [stellar](https://github.com/xaoxuu/hexo-theme-stellar)
 
 ![Image](./assets/5.webp)
-
-### [vivia](https://github.com/saicaca/hexo-theme-vivia)
-
-![Image](./assets/6.webp)
 
 ### [volantis](https://github.com/volantis-x/hexo-theme-volantis)
 
@@ -64,15 +62,15 @@
 
 ![Image](./assets/x/2.webp)
 
-### [Frosti](https://github.com/EveSunMaple/Frosti)
+### (astro) [Frosti](https://github.com/EveSunMaple/Frosti)
 
 ![Image](./assets/x/3.webp)
 
-### [Ruyu](https://github.com/kuailemao/Ruyu-Blog)
+### (Java + Vue) [Ruyu](https://github.com/kuailemao/Ruyu-Blog)
 
 ![Image](./assets/x/4.webp)
 
-### [Masuit](https://github.com/ldqk/Masuit.MyBlogs)
+### (DotNet) [Masuit](https://github.com/ldqk/Masuit.MyBlogs)
 
 ![Image](./assets/x/5.webp)
 
@@ -84,13 +82,17 @@
 
 ![Image](./assets/x/7.webp)
 
-### [Shiro](https://github.com/innei/Shiro)
+### (TypeScript) [Shiro](https://github.com/innei/Shiro)
 
 ![Image](./assets/x/8.webp)
 
 ### (Cloudflare) [Rin](https://github.com/openRin/Rin)
 
 ![Image](./assets/x/9.webp)
+
+### (Astro) [fuwari](https://github.com/saicaca/fuwari)
+
+![Image](./assets/x/10.webp)
 
 ## Q: 有 WP 主题推荐吗？
 
