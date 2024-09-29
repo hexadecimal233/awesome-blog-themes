@@ -96,9 +96,9 @@
 
 ![Image](./assets/x/10.webp)
 
-## Q: Is there any theme available for wordpress？
+## Q: Is there any theme available for Wordpress (or Typecho)？
 
-A: No. WordPress has far more themes than Hexo, and many of them are proprietary.
+A: No. WordPress has far more themes than Hexo, and it's hard to find the best one for you.
 
 ## PS:
 
