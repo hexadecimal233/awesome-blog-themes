@@ -2,7 +2,7 @@
 
 ## 几款好看的 hexo 主题~
 
-> Hexo 是一个快速、简洁且高效的博客框架。推荐新手使用 👍
+> Hexo 是一个快速、简洁且高效的博客框架。推荐新手使用
 
 ### [anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu)
 
@@ -52,7 +52,9 @@
 
 ![Image](./assets/14.webp)
 
-## 虽然下面的主题不是 hexo 的，但也值得一试的 ww！(有些可能要自己部署后端)
+## 其他主题
+
+> 虽然下面的主题不是 hexo 的，但也值得一试的！(有些可能要自己部署后端)
 
 ### (Hugo) [stack](https://github.com/CaiJimmy/hugo-theme-stack)
 

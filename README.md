@@ -54,7 +54,9 @@
 
 ![Image](./assets/14.webp)
 
-## The following themes are not for hexo, but they are worth a try (Some may require you to deploy it yourself)
+## Other themes
+
+>The following themes are not for hexo, but they are worth a try (Some may require you to deploy it yourself)
 
 ### (Hugo) [stack](https://github.com/CaiJimmy/hugo-theme-stack)
 
