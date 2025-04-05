@@ -4,7 +4,7 @@
 
 ## Hexo themes
 
-> Hexo is a fast, simple & powerful blog framework. Recommended for beginners 👍
+> Hexo is a fast, simple & powerful blog framework. (beginners friendly)
 
 ### [anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu)
 
@@ -46,6 +46,10 @@
 
 ![Image](./assets/11.webp)
 
+### [butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
+
+![Image](./assets/12.webp)
+
 ### [archer](https://github.com/fi3ework/hexo-theme-archer)
 
 ![Image](./assets/13.webp)
@@ -54,9 +58,13 @@
 
 ![Image](./assets/14.webp)
 
+### [suka](https://github.com/SukkaW/hexo-theme-suka)
+
+![Image](./assets/15.webp)
+
 ## Other themes
 
->The following themes are not for hexo, but they are worth a try (Some may require you to deploy it yourself)
+> The following themes are not for hexo, but they are worth a try (Some may require you to deploy it yourself)
 
 ### (Hugo) [stack](https://github.com/CaiJimmy/hugo-theme-stack)
 
@@ -100,8 +108,8 @@
 
 ## Q: Is there any theme available for Wordpress (or Typecho)？
 
-A: No. WordPress has far more themes than Hexo, and it's hard to find the best one for you.
+A: No. WordPress has far more themes and functions compared with static blog sites, and it's hard to find the best one for you.
 
-## PS:
+## Contribution
 
 If you have a better theme, please submit a PR.

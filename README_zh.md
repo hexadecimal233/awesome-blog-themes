@@ -44,6 +44,10 @@
 
 ![Image](./assets/11.webp)
 
+### [butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
+
+![Image](./assets/12.webp)
+
 ### [archer](https://github.com/fi3ework/hexo-theme-archer)
 
 ![Image](./assets/13.webp)
@@ -51,6 +55,10 @@
 ### [nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe)
 
 ![Image](./assets/14.webp)
+
+### [suka](https://github.com/SukkaW/hexo-theme-suka)
+
+![Image](./assets/15.webp)
 
 ## 其他主题
 
@@ -100,7 +108,7 @@
 
 A: 暂无，问就是 WP 主题太多（）
 
-## PS:
+## 贡献
 
 萝卜青菜各有所爱，选一个上手的主题用就行，不用过于纠结美化的问题。
 如果有好看的主题可以直接开 pr，一般情况都会 merge 的~
