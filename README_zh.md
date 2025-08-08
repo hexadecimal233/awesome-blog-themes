@@ -60,6 +60,10 @@
 
 ![Image](./assets/15.webp)
 
+### [flexblock](https://github.com/miiiku/hexo-theme-flexblock)
+
+![Image](https://github.com/miiiku/hexo-theme-flexblock/raw/master/screenshots/flex-block--home.jpeg)
+
 ## 其他主题
 
 > 虽然下面的主题不是 hexo 的，但也值得一试的！(有些可能要自己部署后端)
