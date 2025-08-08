@@ -62,6 +62,10 @@
 
 ![Image](./assets/15.webp)
 
+### [flexblock](https://github.com/miiiku/hexo-theme-flexblock)
+
+![Image](https://github.com/miiiku/hexo-theme-flexblock/raw/master/screenshots/flex-block--home.jpeg)
+
 ## Other themes
 
 > The following themes are not for hexo, but they are worth a try (Some may require you to deploy it yourself)
