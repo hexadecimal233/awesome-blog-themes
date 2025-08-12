@@ -1,7 +1,5 @@
 # awesome-blog-themes
 
-[中文](./README_zh.md)
-
 ## Hexo themes
 
 > Hexo is a fast, simple & powerful blog framework. (beginners friendly)
@@ -114,9 +112,13 @@
 
 ![Image](./assets/x/11.webp)
 
+### (Jekyll) [chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+
+![Image](https://chirpy-img.netlify.app/commons/devices-mockup.png)
+
 ## Q: Is there any theme available for Wordpress (or Typecho)？
 
-A: No. WordPress has far more themes and functions compared with static blog sites, and it's hard to find the best one for you.
+A: No. WordPress has far more themes and functions compared with static blog sites, everyone has their own favorite style.
 
 ## Contribution
 
