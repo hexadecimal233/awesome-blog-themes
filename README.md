@@ -2,7 +2,9 @@
 
 ## Hexo themes
 
-> Hexo is a fast, simple & powerful blog framework. (beginners friendly)
+Hexo is a fast, simple & powerful blog framework.
+
+It is also known for its beginner-friendly configuration system.
 
 ### [anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu)
 
@@ -66,7 +68,7 @@
 
 ## Other themes
 
-> The following themes are not for hexo, but they are worth a try (Some may require you to deploy it yourself)
+The following themes are not for hexo, but they are worth a try (Some may be required to deploy it yourself)
 
 ### (Hugo) [stack](https://github.com/CaiJimmy/hugo-theme-stack)
 
@@ -112,6 +114,10 @@
 
 ![Image](./assets/x/10.webp)
 
+### (Astro) [Mizuki](https://github.com/matsuzaka-yuki/Mizuki)
+
+![Image](https://github.com/matsuzaka-yuki/Mizuki/blob/master/README.png?raw=true)
+
 ### (Vitepress) [curve](https://github.com/imsyy/vitepress-theme-curve)
 
 ![Image](./assets/x/11.webp)
@@ -126,4 +132,4 @@ A: No. WordPress has far more themes and functions compared with static blog sit
 
 ## Contribution
 
-If you have a better theme, please submit a PR.
+If you want to add your theme, feel free to submit a PR or an issue.
