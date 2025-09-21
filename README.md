@@ -72,6 +72,10 @@
 
 ![Image](./assets/x/1.webp)
 
+### (Hugo) [narrow](https://github.com/tom2almighty/hugo-narrow)
+
+![Image](https://cdn.jsdelivr.net/gh/tom2almighty/hugo-narrow@main/images/home.png)
+
 ### (Valaxy) [yun](https://github.com/YunYouJun/valaxy)
 
 ![Image](./assets/x/2.webp)
