@@ -116,7 +116,11 @@ The following themes are not for hexo, but they are worth a try (Some may be req
 
 ### (Astro) [Mizuki](https://github.com/matsuzaka-yuki/Mizuki)
 
-![Image](https://github.com/matsuzaka-yuki/Mizuki/blob/master/README.png?raw=true)
+![Image](https://github.com/matsuzaka-yuki/Mizuki/blob/master/README.webp?raw=true)
+
+### (Astro) [astro-paper](https://github.com/satnaing/astro-paper)
+
+![Image](https://github.com/satnaing/astro-paper/raw/main/public/astropaper-og.jpg)
 
 ### (Vitepress) [curve](https://github.com/imsyy/vitepress-theme-curve)
 
