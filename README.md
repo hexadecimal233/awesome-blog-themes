@@ -122,6 +122,10 @@ The following themes are not for hexo, but they are worth a try (Some may be req
 
 ![Image](https://github.com/satnaing/astro-paper/raw/main/public/astropaper-og.jpg)
 
+### (Astro) [astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme)
+
+![Image](https://raw.githubusercontent.com/lin-stephanie/assets/refs/heads/main/astro-antfustyle-theme/cover_2x.png)
+
 ### (Vitepress) [curve](https://github.com/imsyy/vitepress-theme-curve)
 
 ![Image](./assets/x/11.webp)
@@ -136,4 +140,4 @@ A: No. WordPress has far more themes and functions compared with static blog sit
 
 ## Contribution
 
-If you want to add your theme, feel free to submit a PR or an issue.
+If you want to promote your theme, feel free to submit a PR.
