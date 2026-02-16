@@ -32,7 +32,7 @@ The following themes are not for hexo, but they are worth a try (Some may be req
 | --------- | ----- | ---- |
 | Hugo | [stack](https://github.com/CaiJimmy/hugo-theme-stack) | ![Image](./assets/x/1.webp) |
 | Hugo | [narrow](https://github.com/tom2almighty/hugo-narrow) | ![Image](https://cdn.jsdelivr.net/gh/tom2almighty/hugo-narrow@main/images/home.png) |
-| TypeScript | [yvalaxyn](https://github.com/YunYouJun/valaxy) | ![Image](./assets/x/2.webp) |
+| TypeScript | [valaxy](https://github.com/YunYouJun/valaxy) | ![Image](./assets/x/2.webp) |
 | Ghost | [attila](https://github.com/zutrinken/attila) | ![Image](https://raw.githubusercontent.com/zutrinken/attila/master/src/screenshot.webp) |
 | Astro | [Frosti](https://github.com/EveSunMaple/Frosti) | ![Image](./assets/x/3.webp) |
 | Java + Vue | [Ruyu](https://github.com/kuailemao/Ruyu-Blog) | ![Image](./assets/x/4.webp) |
@@ -43,6 +43,8 @@ The following themes are not for hexo, but they are worth a try (Some may be req
 | Cloudflare | [Rin](https://github.com/openRin/Rin) | ![Image](./assets/x/9.webp) |
 | Astro | [fuwari](https://github.com/saicaca/fuwari) | ![Image](./assets/x/10.webp) |
 | Astro | [Mizuki](https://github.com/matsuzaka-yuki/Mizuki) | ![Image](https://github.com/matsuzaka-yuki/Mizuki/blob/master/README.webp?raw=true) |
+| Astro | [fuwari-fork](https://github.com/afoim/fuwari) | ![Image](https://github.com/user-attachments/assets/55c2c63b-0dac-436e-aaa0-451ad2dfb65a) |
+| Astro | [Firefly](https://github.com/CuteLeaf/Firefly) | ![Image](https://raw.githubusercontent.com/CuteLeaf/Firefly/82dc0c6e80b7b1d0aa0478dd161150b5d53b3e57/docs/images/1.webp) |
 | Astro | [astro-paper](https://github.com/satnaing/astro-paper) | ![Image](https://github.com/satnaing/astro-paper/raw/main/public/astropaper-og.jpg) |
 | Astro | [astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | ![Image](https://raw.githubusercontent.com/lin-stephanie/assets/refs/heads/main/astro-antfustyle-theme/cover_2x.png) |
 | Vitepress | [curve](https://github.com/imsyy/vitepress-theme-curve) | ![Image](./assets/x/11.webp) |
