@@ -47,6 +47,7 @@ The following themes are not for hexo, but they are worth a try (Some may be req
 | Astro | [Firefly](https://github.com/CuteLeaf/Firefly) | ![Image](https://raw.githubusercontent.com/CuteLeaf/Firefly/82dc0c6e80b7b1d0aa0478dd161150b5d53b3e57/docs/images/1.webp) |
 | Astro | [astro-paper](https://github.com/satnaing/astro-paper) | ![Image](https://github.com/satnaing/astro-paper/raw/main/public/astropaper-og.jpg) |
 | Astro | [astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | ![Image](https://raw.githubusercontent.com/lin-stephanie/assets/refs/heads/main/astro-antfustyle-theme/cover_2x.png) |
+| Astro | [pure](https://github.com/cworld1/astro-theme-pure) | ![Image](https://raw.githubusercontent.com/cworld1/astro-theme-pure/refs/heads/main/.github/assets/body.webp) |
 | Vitepress | [curve](https://github.com/imsyy/vitepress-theme-curve) | ![Image](./assets/x/11.webp) |
 | Jekyll | [chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) | ![Image](https://chirpy-img.netlify.app/commons/devices-mockup.png) |
 
