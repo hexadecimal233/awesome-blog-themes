@@ -32,6 +32,8 @@ The following themes are not for hexo, but they are worth a try (Some may be req
 | --------- | ----- | ---- |
 | Hugo | [stack](https://github.com/CaiJimmy/hugo-theme-stack) | ![Image](./assets/x/1.webp) |
 | Hugo | [narrow](https://github.com/tom2almighty/hugo-narrow) | ![Image](https://cdn.jsdelivr.net/gh/tom2almighty/hugo-narrow@main/images/home.png) |
+| Hugo | [PaperMod](https://github.com/adityatelange/hugo-PaperMod) | ![Image](https://user-images.githubusercontent.com/21258296/114303440-bfc0ae80-9aeb-11eb-8cfa-48a4bb385a6d.png) |
+| Lume | [LumeProse](https://github.com/FBIKdot/LumeProse) | ![Image](https://lume.land/img/showcase/fbik.webp) |
 | TypeScript | [valaxy](https://github.com/YunYouJun/valaxy) | ![Image](./assets/x/2.webp) |
 | Ghost | [attila](https://github.com/zutrinken/attila) | ![Image](https://raw.githubusercontent.com/zutrinken/attila/master/src/screenshot.webp) |
 | Astro | [Frosti](https://github.com/EveSunMaple/Frosti) | ![Image](./assets/x/3.webp) |
@@ -58,6 +60,3 @@ A: No. WordPress has far more themes and functions compared with static blog sit
 ## Contribution
 
 If you want to promote your theme, feel free to submit a PR.
-
-> [!NOTE]
-`/assets` is deprecated
