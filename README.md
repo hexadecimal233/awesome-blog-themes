@@ -105,6 +105,14 @@ Full-stack blog solutions with Java backend and Vue frontend.
 | ----- | ---- |
 | [Masuit](https://github.com/ldqk/Masuit.MyBlogs) | ![Image](./assets/x/5.webp) |
 
+## Svelte
+
+Svelte blog systems.
+
+| Theme | 预览 |
+| ----- | ---- |
+| [Swyxkit](https://github.com/swyxio/swyxkit) | ![Image](https://user-images.githubusercontent.com/6764957/147861359-3ad9438f-41d1-47c8-aa05-95c7d18497f0.png) |
+
 ## Halo
 
 Halo is a modern open source CMS for developers.
