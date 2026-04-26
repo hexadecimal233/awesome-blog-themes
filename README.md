@@ -1,10 +1,10 @@
-# awesome-blog-themes
+# awesome-blogs-themes
+
+This repository is a curated list of awesome blog themes for various platforms, including static site generators, CMS, and full-stack solutions. Whether you're looking for a minimalist design or a feature-rich theme, you'll find something that suits your needs here.
 
 ## Hexo themes
 
-Hexo is a fast, simple & powerful blog framework.
-
-It is also known for its beginner-friendly configuration system.
+Hexo is a fast, simple & powerful blog framework, also known for its beginner-friendly configuration system.
 
 | Theme | Preview |
 | ----- | ------- |
@@ -28,7 +28,7 @@ It is also known for its beginner-friendly configuration system.
 
 Hugo is a fast and modern static site generator written in Go.
 
-| Theme | 预览 |
+| Theme | Preview |
 | ----- | ---- |
 | [stack](https://github.com/CaiJimmy/hugo-theme-stack) | ![Image](./assets/x/1.webp) |
 | [narrow](https://github.com/tom2almighty/hugo-narrow) | ![Image](https://cdn.jsdelivr.net/gh/tom2almighty/hugo-narrow@main/images/home.png) |
@@ -38,103 +38,32 @@ Hugo is a fast and modern static site generator written in Go.
 
 Lume is a static site generator for Deno, built with TypeScript.
 
-| Theme | 预览 |
+| Theme | Preview |
 | ----- | ---- |
 | [LumeProse](https://github.com/FBIKdot/LumeProse) | ![Image](https://lume.land/img/showcase/fbik.webp) |
-
-## React
-
-React-based blog platforms offer modern development experience with type safety.
-
-| Theme | 预览 |
-| ----- | ---- |
-| [Shiro](https://github.com/innei/Shiro) | ![Image](./assets/x/8.webp) |
 
 ## Ghost
 
 Ghost is a modern, open source publishing platform.
 
-| Theme | 预览 |
+| Theme | Preview |
 | ----- | ---- |
 | [attila](https://github.com/zutrinken/attila) | ![Image](https://raw.githubusercontent.com/zutrinken/attila/master/src/screenshot.webp) |
-
-## Astro
-
-Astro is an all-in-one web framework for building fast, content-focused websites.
-
-| Theme | 预览 |
-| ----- | ---- |
-| [Frosti](https://github.com/EveSunMaple/Frosti) | ![Image](./assets/x/3.webp) |
-| [fuwari](https://github.com/saicaca/fuwari) | ![Image](./assets/x/10.webp) |
-| [Mizuki](https://github.com/matsuzaka-yuki/Mizuki) | ![Image](https://github.com/matsuzaka-yuki/Mizuki/blob/master/README.webp?raw=true) |
-| [fuwari-fork](https://github.com/afoim/fuwari) | ![Image](https://github.com/user-attachments/assets/55c2c63b-0dac-436e-aaa0-451ad2dfb65a) |
-| [Firefly](https://github.com/CuteLeaf/Firefly) | ![Image](https://raw.githubusercontent.com/CuteLeaf/Firefly/82dc0c6e80b7b1d0aa0478dd161150b5d53b3e57/docs/images/1.webp) |
-| [astro-paper](https://github.com/satnaing/astro-paper) | ![Image](https://github.com/satnaing/astro-paper/raw/main/public/astropaper-og.jpg) |
-| [astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | ![Image](https://raw.githubusercontent.com/lin-stephanie/assets/refs/heads/main/astro-antfustyle-theme/cover_2x.png) |
-| [pure](https://github.com/cworld1/astro-theme-pure) | ![Image](https://raw.githubusercontent.com/cworld1/astro-theme-pure/refs/heads/main/.github/assets/body.webp) |
-
-## Java + Vue
-
-Full-stack blog solutions with Java backend and Vue frontend.
-
-| Theme | 预览 |
-| ----- | ---- |
-| [Ruyu](https://github.com/kuailemao/Ruyu-Blog) | ![Image](./assets/x/4.webp) |
-
-## Vue
-
-Full-stack blog solutions with a Vue frontend.
-
-| Theme | 预览 |
-| ----- | ---- |
-| [valaxy](https://github.com/YunYouJun/valaxy) | ![Image](./assets/x/2.webp) |
-
-## Java + Vue
-
-Full-stack blog solutions with Java backend and Vue frontend.
-
-| Theme | 预览 |
-| ----- | ---- |
-| [Ruyu](https://github.com/kuailemao/Ruyu-Blog) | ![Image](./assets/x/4.webp) |
-
-## DotNet + Vue
-
-.NET-based blog platforms.
-
-| Theme | 预览 |
-| ----- | ---- |
-| [Masuit](https://github.com/ldqk/Masuit.MyBlogs) | ![Image](./assets/x/5.webp) |
-
-## Svelte
-
-Svelte blog systems.
-
-| Theme | 预览 |
-| ----- | ---- |
-| [Swyxkit](https://github.com/swyxio/swyxkit) | ![Image](https://user-images.githubusercontent.com/6764957/147861359-3ad9438f-41d1-47c8-aa05-95c7d18497f0.png) |
 
 ## Halo
 
 Halo is a modern open source CMS for developers.
 
-| Theme | 预览 |
+| Theme | Preview |
 | ----- | ---- |
 | [Sakura](https://github.com/LIlGG/halo-theme-sakura) | ![Image](./assets/x/6.webp) |
 | [Dream](https://github.com/nineya/halo-theme-dream) | ![Image](./assets/x/7.webp) |
-
-## Cloudflare
-
-Cloudflare Workers based blog platforms.
-
-| Theme | 预览 |
-| ----- | ---- |
-| [Rin](https://github.com/openRin/Rin) | ![Image](./assets/x/9.webp) |
 
 ## Vitepress
 
 VitePress is a Vue-powered static site generator.
 
-| Theme | 预览 |
+| Theme | Preview |
 | ----- | ---- |
 | [curve](https://github.com/imsyy/vitepress-theme-curve) | ![Image](./assets/x/11.webp) |
 
@@ -142,9 +71,43 @@ VitePress is a Vue-powered static site generator.
 
 Jekyll is a simple, blog-aware static site generator.
 
-| Theme | 预览 |
+| Theme | Preview |
 | ----- | ---- |
 | [chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) | ![Image](https://chirpy-img.netlify.app/commons/devices-mockup.png) |
+
+## Astro
+
+An open source static site generator for the web.
+
+| Theme | Preview |
+| ----- | ---- |
+| [Frosti (Astro)](https://github.com/EveSunMaple/Frosti) | ![Image](./assets/x/3.webp) |
+| [fuwari (Astro)](https://github.com/saicaca/fuwari) | ![Image](./assets/x/10.webp) |
+| [Mizuki (Astro)](https://github.com/matsuzaka-yuki/Mizuki) | ![Image](https://github.com/matsuzaka-yuki/Mizuki/blob/master/README.webp?raw=true) |
+| [fuwari-fork (Astro)](https://github.com/afoim/fuwari) | ![Image](https://github.com/user-attachments/assets/55c2c63b-0dac-436e-aaa0-451ad2dfb65a) |
+| [Firefly (Astro)](https://github.com/CuteLeaf/Firefly) | ![Image](https://raw.githubusercontent.com/CuteLeaf/Firefly/82dc0c6e80b7b1d0aa0478dd161150b5d53b3e57/docs/images/1.webp) |
+| [astro-paper (Astro)](https://github.com/satnaing/astro-paper) | ![Image](https://github.com/satnaing/astro-paper/raw/main/public/astropaper-og.jpg) |
+| [astro-antfustyle-theme (Astro)](https://github.com/lin-stephanie/astro-antfustyle-theme) | ![Image](https://raw.githubusercontent.com/lin-stephanie/assets/refs/heads/main/astro-antfustyle-theme/cover_2x.png) |
+| [pure (Astro)](https://github.com/cworld1/astro-theme-pure) | ![Image](https://raw.githubusercontent.com/cworld1/astro-theme-pure/refs/heads/main/.github/assets/body.webp) |
+
+## Others
+
+This category includes themes for various platforms, such as Astro, Svelte, React, Cloudflare Workers, etc.
+
+* May include Full-stack blogging projects.
+
+| Theme | Preview |
+| ----- | ---- |
+| [Shiro (React)](https://github.com/innei/Shiro) | ![Image](./assets/x/8.webp) |
+| [Ruyu (Java + Vue)](https://github.com/kuailemao/Ruyu-Blog) | ![Image](./assets/x/4.webp) |
+| [valaxy (Vue)](https://github.com/YunYouJun/valaxy) | ![Image](./assets/x/2.webp) |
+| [Ruyu (Java + Vue)](https://github.com/kuailemao/Ruyu-Blog) | ![Image](./assets/x/4.webp) |
+| [Masuit (DotNet + Vue)](https://github.com/ldqk/Masuit.MyBlogs) | ![Image](./assets/x/5.webp) |
+| [Swyxkit (SvelteKit)](https://github.com/swyxio/swyxkit) | ![Image](https://user-images.githubusercontent.com/6764957/147861359-3ad9438f-41d1-47c8-aa05-95c7d18497f0.png) |
+| [urara (SvelteKit)](https://github.com/importantimport/urara) | ![Image](./assets/image.png) |
+| [Rin (Cloudflare Workers)](https://github.com/openRin/Rin) | ![Image](./assets/x/9.webp) |
+| [Ech0 (Go + Vue)](https://github.com/lin-snow/Ech0) | ![Image](https://github.com/lin-snow/Ech0/blob/main/docs/imgs/screenshot.png?raw=true) |
+| [memos (Go + React)](https://github.com/usememos/memos) | ![Image](https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/demo.png) |
 
 ## Q: Is there any theme available for Wordpress (or Typecho)？
 
@@ -152,4 +115,4 @@ A: No. WordPress has far more themes and functions compared with static blog sit
 
 ## Contribution
 
-If you want to promote your theme, feel free to submit a PR.
+PRs welcome! ^^
