@@ -81,14 +81,15 @@ An open source static site generator for the web.
 
 | Theme | Preview |
 | ----- | ---- |
-| [Frosti (Astro)](https://github.com/EveSunMaple/Frosti) | ![Image](./assets/x/3.webp) |
-| [fuwari (Astro)](https://github.com/saicaca/fuwari) | ![Image](./assets/x/10.webp) |
-| [Mizuki (Astro)](https://github.com/matsuzaka-yuki/Mizuki) | ![Image](https://github.com/matsuzaka-yuki/Mizuki/blob/master/README.webp?raw=true) |
-| [fuwari-fork (Astro)](https://github.com/afoim/fuwari) | ![Image](https://github.com/user-attachments/assets/55c2c63b-0dac-436e-aaa0-451ad2dfb65a) |
-| [Firefly (Astro)](https://github.com/CuteLeaf/Firefly) | ![Image](https://raw.githubusercontent.com/CuteLeaf/Firefly/82dc0c6e80b7b1d0aa0478dd161150b5d53b3e57/docs/images/1.webp) |
-| [astro-paper (Astro)](https://github.com/satnaing/astro-paper) | ![Image](https://github.com/satnaing/astro-paper/raw/main/public/astropaper-og.jpg) |
-| [astro-antfustyle-theme (Astro)](https://github.com/lin-stephanie/astro-antfustyle-theme) | ![Image](https://raw.githubusercontent.com/lin-stephanie/assets/refs/heads/main/astro-antfustyle-theme/cover_2x.png) |
-| [pure (Astro)](https://github.com/cworld1/astro-theme-pure) | ![Image](https://raw.githubusercontent.com/cworld1/astro-theme-pure/refs/heads/main/.github/assets/body.webp) |
+| [Frosti](https://github.com/EveSunMaple/Frosti) | ![Image](./assets/x/3.webp) |
+| [Lithium](https://github.com/BeiyanYunyi/Astro-blog-Lithium) | **image not available** |
+| [fuwari](https://github.com/saicaca/fuwari) | ![Image](./assets/x/10.webp) |
+| [Mizuki](https://github.com/matsuzaka-yuki/Mizuki) | ![Image](https://github.com/matsuzaka-yuki/Mizuki/blob/master/README.webp?raw=true) |
+| [fuwari-fork](https://github.com/afoim/fuwari) | ![Image](https://github.com/user-attachments/assets/55c2c63b-0dac-436e-aaa0-451ad2dfb65a) |
+| [Firefly](https://github.com/CuteLeaf/Firefly) | ![Image](https://raw.githubusercontent.com/CuteLeaf/Firefly/82dc0c6e80b7b1d0aa0478dd161150b5d53b3e57/docs/images/1.webp) |
+| [astro-paper](https://github.com/satnaing/astro-paper) | ![Image](https://github.com/satnaing/astro-paper/raw/main/public/astropaper-og.jpg) |
+| [astro-antfustyle-theme](https://github.com/lin-stephanie/astro-antfustyle-theme) | ![Image](https://raw.githubusercontent.com/lin-stephanie/assets/refs/heads/main/astro-antfustyle-theme/cover_2x.png) |
+| [pure](https://github.com/cworld1/astro-theme-pure) | ![Image](https://raw.githubusercontent.com/cworld1/astro-theme-pure/refs/heads/main/.github/assets/body.webp) |
 
 ## Others
 
