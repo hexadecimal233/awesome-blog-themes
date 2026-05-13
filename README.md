@@ -106,6 +106,7 @@ This category includes themes for various platforms, such as Astro, Svelte, Reac
 | [Masuit (DotNet + Vue)](https://github.com/ldqk/Masuit.MyBlogs) | ![Image](./assets/x/5.webp) |
 | [Swyxkit (SvelteKit)](https://github.com/swyxio/swyxkit) | ![Image](https://user-images.githubusercontent.com/6764957/147861359-3ad9438f-41d1-47c8-aa05-95c7d18497f0.png) |
 | [urara (SvelteKit)](https://github.com/importantimport/urara) | ![Image](./assets/image.png) |
+| [joy-of-code (SvelteKit)](https://github.com/matiadev/joy-of-code) | **image not available** |
 | [Rin (Cloudflare Workers)](https://github.com/openRin/Rin) | ![Image](./assets/x/9.webp) |
 | [Ech0 (Go + Vue)](https://github.com/lin-snow/Ech0) | ![Image](https://github.com/lin-snow/Ech0/blob/main/docs/imgs/screenshot.png?raw=true) |
 | [memos (Go + React)](https://github.com/usememos/memos) | ![Image](https://raw.githubusercontent.com/usememos/.github/refs/heads/main/assets/demo.png) |
