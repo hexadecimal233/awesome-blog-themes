@@ -1,10 +1,10 @@
 # awesome-blogs-themes
 
-This repository is a curated list of awesome blog themes for various platforms, including static site generators, CMS, and full-stack solutions. Whether you're looking for a minimalist design or a feature-rich theme, you'll find something that suits your needs here.
+This repository is a curated list of awesome blog themes for various platforms, including static site generators (SSG), CMS, and full-stack solutions. Whether you're looking for a minimalist design or a feature-rich theme, you'll find something that suits your needs here.
 
 ## Hexo themes
 
-Hexo is a fast, simple & powerful blog framework, also known for its beginner-friendly configuration system.
+Hexo is a fast, simple & powerful blog framework.
 
 | Theme | Preview |
 | ----- | ------- |
@@ -58,6 +58,7 @@ Halo is a modern open source CMS for developers.
 | ----- | ---- |
 | [Sakura](https://github.com/LIlGG/halo-theme-sakura) | ![Image](./assets/x/6.webp) |
 | [Dream](https://github.com/nineya/halo-theme-dream) | ![Image](./assets/x/7.webp) |
+| [Clarity](https://github.com/acanyo/theme-clarity) | ![Image](https://raw.githubusercontent.com/acanyo/theme-clarity/main/img/jietu.png) |
 
 ## Vitepress
 
@@ -113,8 +114,8 @@ This category includes themes for various platforms, such as Astro, Svelte, Reac
 
 ## Q: Is there any theme available for Wordpress (or Typecho)？
 
-A: No. WordPress has far more themes and functions compared with static blog sites, everyone has their own favorite style.
+A: No. WordPress has far more themes and more complex configuration interfaces, and have multiple distribution platforms.
 
 ## Contribution
 
-PRs welcome! ^^
+PRs welcome!
